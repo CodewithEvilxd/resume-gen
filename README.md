@@ -2,4 +2,4 @@
 
 Generate your resume with github integrated 
 
-site : https://github-resume-gen.netlify.app/
+site : [xd](https://resume-gen-xd.vercel.app/)
