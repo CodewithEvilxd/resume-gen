@@ -161,7 +161,7 @@ function App() {
         )}
       </main>
 
-      <footer className="p-4 text-center text-gray-600 dark:text-gray-400">Built with ❤️ by @Hi_Mrinal</footer>
+      <footer className="p-4 text-center text-gray-600 dark:text-gray-400">Built with ❤️ by @Nishant Gaurav</footer>
     </div>
   );
 }
