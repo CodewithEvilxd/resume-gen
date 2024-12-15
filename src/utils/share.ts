@@ -4,7 +4,7 @@ export const generateShareableLink = (data : ResumeData) => {
     try {
         // encoding the data so that it can be easily load on the other client side
         const compressData = btoa(JSON.stringify(data))
-        const baseURL = 'https://github-resume-gen.netlify.app'
+        const baseURL = 'https://resume-gen-xd.vercel.app'
         return `${baseURL}?resume=${compressData}`
     } catch (error) {
         console.error('Error generating shareable link : ', error)
